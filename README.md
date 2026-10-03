@@ -35,18 +35,20 @@ The following modules were included in the testing practice:
 * **Documentation:** Microsoft Excel
 * **Version Control:** Git and GitHub
 
+
 ## 📂 Project Structure
 
+```text
 Manual-Testing-OpenCart/
-│
 ├── Test-Cases/
 ├── Test-Execution/
 ├── Bug-Reports/
 ├── Environment-Setup/
 ├── Test-Plan/
 │   └── OpenCart_Test_Plan.docx
-│
 └── README.md
+```
+
 
 ## 🔍 Testing Activities
 
