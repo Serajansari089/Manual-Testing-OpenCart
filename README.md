@@ -37,11 +37,16 @@ The following modules were included in the testing practice:
 
 ## 📂 Project Structure
 
-* **Test-Cases/** — Test cases prepared for the application modules.
-* **Test-Execution/** — Test execution records and results.
-* **Bug-Reports/** — Bug report documentation and supporting screenshots.
-* **Bug-Reports/Screenshots/** — Evidence screenshots organized into folders.
-* **Environment-Setup/** — Screenshots related to the local testing environment, if included.
+Manual-Testing-OpenCart/
+│
+├── Test-Cases/
+├── Test-Execution/
+├── Bug-Reports/
+├── Environment-Setup/
+├── Test-Plan/
+│   └── OpenCart_Test_Plan.docx
+│
+└── README.md
 
 ## 🔍 Testing Activities
 
